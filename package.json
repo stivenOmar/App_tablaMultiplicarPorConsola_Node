@@ -1,0 +1,18 @@
+{
+    "name": "bases_node",
+    "version": "1.0.0",
+    "description": "Aplicacion de linea de comandos",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Omar Calderon",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "yargs": "^16.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7"
+    }
+}
